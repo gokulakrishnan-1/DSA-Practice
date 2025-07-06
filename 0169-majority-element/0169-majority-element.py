@@ -8,11 +8,12 @@ class Solution:
             else:
                 counter[num] = 1
         
-        max_count = 0
-        ans = 0
+        curVal = 0
+        maxVal = 0
 
         for key, value in counter.items():
-            if value > max_count :
-                max_count = value
-                ans = key
-        return ans
+            if value > curVal:
+                curVal = value
+                maxVal = key
+        
+        return maxVal
