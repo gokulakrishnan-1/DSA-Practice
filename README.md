@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
