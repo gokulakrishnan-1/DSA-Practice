@@ -11,9 +11,9 @@ class Solution:
         curVal = 0
         maxVal = 0
 
-        for key, value in counter.items():
-            if value > curVal:
-                curVal = value
+        for key, values in counter.items():
+            if values > curVal :
+                curVal = values
                 maxVal = key
         
         return maxVal
