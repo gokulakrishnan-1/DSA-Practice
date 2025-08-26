@@ -9,4 +9,4 @@ class Solution:
             s[i] = stack.pop()
             i += 1
         
-        
+        return s
