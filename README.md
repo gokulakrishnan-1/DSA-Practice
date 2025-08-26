@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0031-next-permutation) |
+| [0344-reverse-string](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
