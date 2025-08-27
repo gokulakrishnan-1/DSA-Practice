@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -71,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
