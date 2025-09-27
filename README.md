@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gokulakrishnan-1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
